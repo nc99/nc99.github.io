@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nicolaschan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nicolaschan.com
+  * I am nicolaschan (https://keybase.io/nicolaschan) on keybase.
+  * I have a public key with fingerprint 031F 9EF0 3743 AD69 58E6  E8D2 2ACC 08B4 69A2 1FEB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011f7d75d4a8e927a2fc685297608a22f0d6febb97e7c762910375ee287aae1e550a",
+            "fingerprint": "031f9ef03743ad6958e6e8d22acc08b469a21feb",
+            "host": "keybase.io",
+            "key_id": "2acc08b469a21feb",
+            "kid": "01011f7d75d4a8e927a2fc685297608a22f0d6febb97e7c762910375ee287aae1e550a",
+            "uid": "4c4f9b68947010e04af634365cb8a600",
+            "username": "nicolaschan"
+        },
+        "service": {
+            "hostname": "nicolaschan.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494445669,
+    "expire_in": 157680000,
+    "prev": "a9245155e816532f69fbeeddaf877ae485a95fbeb5cca3767ed2ce29738a4d9b",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJbSBRRGMd3Kwu3hKCioPtEEbEscztnZrYIIigq15ciaxGWMzPf7I6X
+mW1ndjPK7IZd7PYQgRWS0QUJLwtFRmJq1kP2ECJKCBGogRmFRVfSOiP1VI+dl8P5
+vv//d77z53TlTfUF/IOhvLV2fvG4v7ujNu3bPceC/Yxq6/uY8H6mBCY3KNXBcWMl
+ps6EGZZjOc6QdAnpIpFB4SXCGxqWEa9ImJUJzxusjg1QVUUCSZMwr3CsICEAXpYI
+AQ4QYgkTZAzTikMqmTIt18MKnKGAQZWiQHSsIBkwyDrPE01jZVXECuE5SqXGhO14
+DjqcShwImTat0UNscrx/6P/z3OlJnKiJhqJiWRElSgZWJAYWRAEjTZUJZllP6EDK
+ImVA1Zap2aXE0RLEYiqCDG1kTA28bL3H/C0KaXYZJSRTtmvTIm0mXDfphD2zuy/p
+qfeCGvvNiammpdM0qSMDKce0LSbMUaXmmh6YExVRFBHGSpCB8qSZgpjpKZCEZZYu
+7x7IUCRReBFxCIHMYSTwBlYMFUDXiSFLEgFRRkRBtKQiTSOChCXQeQ1ofoJMRF3x
+snZgj2UzYUGgc5I4ZTpm3CJuOgVMRWd70TSfP+CbnjPF+2a+QO7sP5/v1roZPze9
+GvYXjlbVLDkaPnJh4dWqi+vHyh9He33vK/kDYw2RD2jXlJx0dbCorbd+W+pZc+JT
+z9aPdV9mzVvdiCZGZlaGTo4Ub/yizbxymG8//eFi6Zpg4Obl7NelLR1N92+sbHpz
+wp2DsmbD6w2RZZmh5fy3HZ3VkY4FZ6dFt2/JyT5qEgpN/O6uf9HDgprPp1+uvGUX
+LbqX3+IbHhh/M+tgdVXdhqWDreeDo/Fj35/02edAWHGj9gx60bWl5/mhna0Db/tX
+OUM75rZc6rt2KP/65sD0+kjfj7qseCe6Vc+b/3LV06h6//bTxt4TevfV448edDH1
+6ujP/sUlO2F7c/RUwQRuzG37BUUIR6o=
+=0TmC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicolaschan
+
+==================================================================
